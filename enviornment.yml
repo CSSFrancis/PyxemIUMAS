@@ -1,0 +1,20 @@
+name: IUMAS-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pyxem
+  - hyperspy
+  - diffsims
+  - ipywidgets
+  - ipympl
+  - lmfit
+  - orix
+  - numba >= 0.56.0
+  - dask
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - transforms3d
+  - dask-distributed
