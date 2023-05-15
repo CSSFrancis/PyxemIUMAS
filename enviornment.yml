@@ -1,4 +1,4 @@
-name: IUMAS-environment
+name: IUMAS-pyxem
 channels:
   - conda-forge
 dependencies:
@@ -18,3 +18,4 @@ dependencies:
   - scipy
   - transforms3d
   - dask-distributed
+  - rise
