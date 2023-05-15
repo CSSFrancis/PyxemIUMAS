@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CSSFrancis/PyxemIUMAS/HEAD)
+
+
 # Introduction To PyxemIUMAS
 
 This repository contains a Jupyter notebook for a presentation of pyxem at the Open-Source Data Analyiss Workshop as part of IUMAS-8 in
