@@ -1,0 +1,6 @@
+git+https://github.com/CSSFrancis/hyperspy.git@widget_plot#egg=hyperspy
+pyxem
+ipympl
+diffsims
+ipywidgets
+jupyter-deck
