@@ -5,3 +5,5 @@ diffsims
 ipywidgets
 jupyterlab-deck
 zarr
+ipython
+ipywidgets
