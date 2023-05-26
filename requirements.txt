@@ -4,3 +4,4 @@ ipympl
 diffsims
 ipywidgets
 jupyterlab-deck
+zarr
