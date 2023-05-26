@@ -3,4 +3,4 @@ pyxem
 ipympl
 diffsims
 ipywidgets
-jupyter-deck
+jupyterlab-deck
