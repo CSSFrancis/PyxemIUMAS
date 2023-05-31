@@ -1,6 +1,0 @@
-{
-    "hyperspy_version": "1.7.1",
-    "io_plugin": "hyperspy.io_plugins.hspy",
-    "operation": "load",
-    "timestamp": "2023-04-27T10:02:39.372790-05:00"
-}
